@@ -38,11 +38,11 @@ p{
 
 }
 .top-banner{
-    background-image: url(images/top-banner.png);
+    background-image: url(Images/top-banner.png);
     background-repeat: no-repeat;
 }
 .dream-area{
-    background-image: url(images/6.png);
+    background-image: url(Images/6.png);
     background-size: 10%;
     background-repeat: no-repeat;
     background-position: right;
@@ -64,7 +64,7 @@ h2{
     box-shadow: 10px 10px 30px black;
 }
 .experience-area{
-    background-image: url(images/5.png);
+    background-image: url(Images/5.png);
     background-repeat: no-repeat;
     background-size: 10%;
     background-position: left;
